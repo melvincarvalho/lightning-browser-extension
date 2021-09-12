@@ -98,7 +98,7 @@ export default function NewWallet() {
                     size="96"
                   />
                 </div>
-                If you loose access you will need this backup to recover your
+                If you lose access you will need this backup to recover your
                 wallet. You can also import the wallet into your BlueWallet
                 mobile app using the QR Code.
               </div>
